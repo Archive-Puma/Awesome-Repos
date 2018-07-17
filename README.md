@@ -13,6 +13,7 @@
 - [:card_file_box: Contents](#cardfilebox-contents)
 - [:lipstick: CSS](#lipstick-css)
   - [Layout](#layout)
+- [:fire: FireBase](#fire-firebase)
 - [:package: NodeJS](#package-nodejs)
   - [ASCII Art](#ascii-art)
   - [Automation](#automation)
@@ -25,7 +26,11 @@
 ### Layout
 
 - [Gridly](https://github.com/IonicaBizau/gridly) - The minimal (~100-170 bytes) grid system for modern browsers.
-  
+
+## :fire: FireBase
+
+- [FireEdit](https://github.com/coltaemanuela/FireEdit) - FireEdit is a real-time text editor which allows programmers work simultaneously.
+
 ## :package: NodeJS
 
 ### ASCII Art

@@ -8,15 +8,15 @@
   <br>
 </div>
 
-## Contents
+## :card_file_box: Contents
 
 - [Contents](#contents)
 - [CSS](#css)
   - [Layout](#layout)
 
-## CSS
+## :lipstick: CSS
 
-### Layout
+### :globe_with_meridians: Layout
 
 - [Gridly](https://github.com/IonicaBizau/gridly)
   

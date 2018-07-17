@@ -20,6 +20,7 @@
 - [:package: NodeJS](#package-nodejs)
   - [ASCII Art](#ascii-art)
   - [Automation](#automation)
+  - [CLI Tools](#cli-tools)
   - [Data Visualization](#data-visualization)
   - [Embed Objects](#embed-objects)
   - [JSON](#json)
@@ -55,6 +56,10 @@
 ### Automation
 
 - [scrape-it](https://github.com/IonicaBizau/scrape-it) - A Node.js scraper for humans.
+
+### CLI Tools
+
+- [hicat](https://github.com/rstacruz/hicat) - Command-line syntax highlighter.
 
 ### Data Visualization
 

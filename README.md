@@ -14,6 +14,7 @@
 - [:lipstick: CSS](#lipstick-css)
   - [Layout](#layout)
 - [:package: NodeJS](#package-nodejs)
+  - [Automation](#automation)
   - [Embed Objects](#embed-objects)
   - [JSON](#json)
   - [Processes](#processes)
@@ -25,6 +26,10 @@
 - [Gridly](https://github.com/IonicaBizau/gridly) - The minimal (~100-170 bytes) grid system for modern browsers.
   
 ## :package: NodeJS
+
+### Automation
+
+- [scrape-it](https://github.com/IonicaBizau/scrape-it) - A Node.js scraper for humans.
 
 
 ### Embed Objects

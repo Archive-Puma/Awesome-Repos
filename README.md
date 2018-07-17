@@ -14,6 +14,7 @@
 - [:lipstick: CSS](#lipstick-css)
   - [Layout](#layout)
 - [:package: NodeJS](#package-nodejs)
+  - [Embed Objects](#embed-objects)
   - [JSON](#json)
 
 ## :lipstick: CSS
@@ -23,6 +24,10 @@
 - [Gridly](https://github.com/IonicaBizau/gridly)
   
 ## :package: NodeJS
+
+### Embed Objects
+
+- [github-calendar](https://github.com/IonicaBizau/github-calendar)
 
 ### JSON
 

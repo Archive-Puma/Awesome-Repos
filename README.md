@@ -16,6 +16,7 @@
 - [:package: NodeJS](#package-nodejs)
   - [Embed Objects](#embed-objects)
   - [JSON](#json)
+  - [Processes](#processes)
 
 ## :lipstick: CSS
 
@@ -25,6 +26,7 @@
   
 ## :package: NodeJS
 
+
 ### Embed Objects
 
 - [github-calendar](https://github.com/IonicaBizau/github-calendar)
@@ -32,3 +34,7 @@
 ### JSON
 
 - [edit-json-file](https://github.com/IonicaBizau/edit-json-file)
+
+### Processes
+
+- [Diable](https://github.com/IonicaBizau/diable)

@@ -30,6 +30,7 @@
 
 ## :video_game: 3DS Homebrew
 
+- [3ds-examples](https://github.com/devkitPro/3ds-examples) - Examples for 3DS using devkitARM, libctru and citro3d
 - [HorizonM](https://github.com/FateForWindows/HorizonM) - ~~utility background process for the Horizon operating system~~ Screen streaming from 3DS using HorizonScreen and VRAM corruptor
 
 ## :lipstick: CSS

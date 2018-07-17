@@ -14,6 +14,7 @@
 - [:lipstick: CSS](#lipstick-css)
   - [Layout](#layout)
 - [:package: NodeJS](#package-nodejs)
+  - [ASCII Art](#ascii-art)
   - [Automation](#automation)
   - [Embed Objects](#embed-objects)
   - [JSON](#json)
@@ -26,6 +27,10 @@
 - [Gridly](https://github.com/IonicaBizau/gridly) - The minimal (~100-170 bytes) grid system for modern browsers.
   
 ## :package: NodeJS
+
+### ASCII Art
+
+- [image-to-ascii](https://github.com/IonicaBizau/image-to-ascii) - A Node.js module that converts images to ASCII art.
 
 ### Automation
 

@@ -15,6 +15,8 @@
 - [:lipstick: CSS](#lipstick-css)
   - [Layout](#layout)
 - [:whale: Docker](#whale-docker)
+- [:book: Books](#book-books)
+  - [Managers](#managers)
 - [:poodle: Esoteric Languages](#poodle-esoteric-languages)
 - [:fire: FireBase](#fire-firebase)
 - [:tophat: Hacking](#tophat-hacking)
@@ -33,6 +35,7 @@
 
 - [3ds-examples](https://github.com/devkitPro/3ds-examples) - Examples for 3DS using devkitARM, libctru and citro3d
 - [HorizonM](https://github.com/FateForWindows/HorizonM) - ~~utility background process for the Horizon operating system~~ Screen streaming from 3DS using HorizonScreen and VRAM corruptor
+- [PKSM](https://github.com/BernardoGiordano/PKSM) - Pokémon GenIV to GenVII save manager.
 
 ## :lipstick: CSS
 
@@ -43,6 +46,12 @@
 ## :whale: Docker
 
 - [dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
+
+## :book: Books
+
+### Managers
+
+- [Buka](https://github.com/oguzhaninan/Buka) - EBook Management.
 
 ## :poodle: Esoteric Languages
 

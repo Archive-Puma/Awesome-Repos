@@ -15,6 +15,7 @@
 - [:lipstick: CSS](#lipstick-css)
   - [Layout](#layout)
 - [:whale: Docker](#whale-docker)
+- [:poodle: Esoteric Languages](#poodle-esoteric-languages)
 - [:fire: FireBase](#fire-firebase)
 - [:tophat: Hacking](#tophat-hacking)
   - [Ransomware](#ransomware)
@@ -40,6 +41,10 @@
 ## :whale: Docker
 
 - [dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
+
+## :poodle: Esoteric Languages
+
+- [TrumpScript](https://github.com/samshadwell/TrumpScript) - Make Python great again
 
 ## :fire: FireBase
 

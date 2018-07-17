@@ -15,6 +15,8 @@
 - [:lipstick: CSS](#lipstick-css)
   - [Layout](#layout)
 - [:fire: FireBase](#fire-firebase)
+- [:tophat: Hacking](#tophat-hacking)
+  - [Ransomware](#ransomware)
 - [:package: NodeJS](#package-nodejs)
   - [ASCII Art](#ascii-art)
   - [Automation](#automation)
@@ -36,6 +38,13 @@
 
 - [FireEdit](https://github.com/coltaemanuela/FireEdit) - FireEdit is a real-time text editor which allows programmers work simultaneously.
 
+## :tophat: Hacking
+
+### Ransomware
+
+- [Hidden Tear](https://github.com/goliate/hidden-tear) - ransomware open-sources
+  - [Hidden Tear 2.0](https://github.com/MarcAngio/Hidden-tear-2.0) - Hidden tear 2.0 with more extension and now it can crypt directory like Documents, Download, Pictures etc.
+
 ## :package: NodeJS
 
 ### ASCII Art
@@ -45,7 +54,6 @@
 ### Automation
 
 - [scrape-it](https://github.com/IonicaBizau/scrape-it) - A Node.js scraper for humans.
-
 
 ### Embed Objects
 

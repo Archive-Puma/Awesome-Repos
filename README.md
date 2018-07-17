@@ -11,6 +11,7 @@
 ## :card_file_box: Contents
 
 - [:card_file_box: Contents](#cardfilebox-contents)
+- [:video_game: 3DS Homebrew](#videogame-3ds-homebrew)
 - [:lipstick: CSS](#lipstick-css)
   - [Layout](#layout)
 - [:fire: FireBase](#fire-firebase)
@@ -20,6 +21,10 @@
   - [Embed Objects](#embed-objects)
   - [JSON](#json)
   - [Processes](#processes)
+
+## :video_game: 3DS Homebrew
+
+- [HorizonM](https://github.com/FateForWindows/HorizonM) - ~~utility background process for the Horizon operating system~~ Screen streaming from 3DS using HorizonScreen and VRAM corruptor
 
 ## :lipstick: CSS
 

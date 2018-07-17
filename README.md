@@ -22,19 +22,19 @@
 
 ### Layout
 
-- [Gridly](https://github.com/IonicaBizau/gridly)
+- [Gridly](https://github.com/IonicaBizau/gridly) - The minimal (~100-170 bytes) grid system for modern browsers.
   
 ## :package: NodeJS
 
 
 ### Embed Objects
 
-- [github-calendar](https://github.com/IonicaBizau/github-calendar)
+- [github-calendar](https://github.com/IonicaBizau/github-calendar) - Embed your GitHub calendar everywhere.
 
 ### JSON
 
-- [edit-json-file](https://github.com/IonicaBizau/edit-json-file)
+- [edit-json-file](https://github.com/IonicaBizau/edit-json-file) - Edit a json file with ease.
 
 ### Processes
 
-- [Diable](https://github.com/IonicaBizau/diable)
+- [Diable](https://github.com/IonicaBizau/diable) - Daemonize the things out.

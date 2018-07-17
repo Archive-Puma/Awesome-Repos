@@ -10,13 +10,13 @@
 
 ## :card_file_box: Contents
 
-- [Contents](#contents)
-- [CSS](#css)
+- [:card_file_box: Contents](#cardfilebox-contents)
+- [:lipstick: CSS](#lipstick-css)
   - [Layout](#layout)
 
 ## :lipstick: CSS
 
-### :globe_with_meridians: Layout
+### Layout
 
 - [Gridly](https://github.com/IonicaBizau/gridly)
   

@@ -20,6 +20,7 @@
 - [:poodle: Esoteric Languages](#poodle-esoteric-languages)
 - [:fire: FireBase](#fire-firebase)
 - [:tophat: Hacking](#tophat-hacking)
+  - [Awesome List](#awesome-list)
   - [Ransomware](#ransomware)
   - [Rubber Ducky](#rubber-ducky)
 - [:penguin: Linux](#penguin-linux)
@@ -64,6 +65,10 @@
 - [FireEdit](https://github.com/coltaemanuela/FireEdit) - FireEdit is a real-time text editor which allows programmers work simultaneously.
 
 ## :tophat: Hacking
+
+### Awesome List
+
+- [Awesome-Hacking-Resources](https://github.com/vitalysim/Awesome-Hacking-Resources) -  A collection of hacking / penetration testing resources to make you better!
 
 ### Ransomware
 

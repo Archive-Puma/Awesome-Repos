@@ -19,6 +19,7 @@
 - [:fire: FireBase](#fire-firebase)
 - [:tophat: Hacking](#tophat-hacking)
   - [Ransomware](#ransomware)
+  - [Rubber Ducky](#rubber-ducky)
 - [:package: NodeJS](#package-nodejs)
   - [ASCII Art](#ascii-art)
   - [Automation](#automation)
@@ -57,6 +58,10 @@
 
 - [Hidden Tear](https://github.com/goliate/hidden-tear) - ransomware open-sources
   - [Hidden Tear 2.0](https://github.com/MarcAngio/Hidden-tear-2.0) - Hidden tear 2.0 with more extension and now it can crypt directory like Documents, Download, Pictures etc.
+
+### Rubber Ducky
+
+- [Duckuino](https://github.com/Nurrl/Duckuino) - Simple DuckyScript to Arduino C converter.
 
 ## :package: NodeJS
 

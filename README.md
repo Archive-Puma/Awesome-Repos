@@ -20,6 +20,7 @@
 - [:package: NodeJS](#package-nodejs)
   - [ASCII Art](#ascii-art)
   - [Automation](#automation)
+  - [Data Visualization](#data-visualization)
   - [Embed Objects](#embed-objects)
   - [JSON](#json)
   - [Processes](#processes)
@@ -54,6 +55,10 @@
 ### Automation
 
 - [scrape-it](https://github.com/IonicaBizau/scrape-it) - A Node.js scraper for humans.
+
+### Data Visualization
+
+-  [freeboard](https://github.com/Freeboard/freeboard) -  A damn-sexy, open source real-time dashboard builder for IOT and other web mashups. A free open-source alternative to Geckoboard.
 
 ### Embed Objects
 

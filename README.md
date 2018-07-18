@@ -32,6 +32,7 @@
 - [:package: NodeJS](#package-nodejs)
   - [ASCII Art](#ascii-art)
   - [Automation](#automation)
+  - [Completely Necessary Modules](#completely-necessary-modules)
   - [CLI Tools](#cli-tools)
   - [Data Visualization](#data-visualization)
   - [Games](#games)
@@ -119,6 +120,10 @@ Fork of remastersys - updates
 ### Automation
 
 - [scrape-it](https://github.com/IonicaBizau/scrape-it) - A Node.js scraper for humans.
+
+### Completely Necessary Modules
+
+- [vowels](https://github.com/IonicaBizau/vowels) - A list with the vowels.
 
 ### CLI Tools
 

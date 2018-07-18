@@ -124,6 +124,7 @@ Fork of remastersys - updates
 ### Completely Necessary Modules
 
 - [vowels](https://github.com/IonicaBizau/vowels) - A list with the vowels.
+- [worder](https://github.com/IonicaBizau/worder) - Get the words from the input text.
 
 ### CLI Tools
 

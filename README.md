@@ -19,6 +19,7 @@
 - [:whale: Docker](#whale-docker)
 - [:poodle: Esoteric Languages](#poodle-esoteric-languages)
 - [:fire: FireBase](#fire-firebase)
+- [:octocat: GitHub](#octocat-github)
 - [:tophat: Hacking](#tophat-hacking)
   - [Awesome List](#awesome-list)
   - [Ransomware](#ransomware)
@@ -63,6 +64,10 @@
 ## :fire: FireBase
 
 - [FireEdit](https://github.com/coltaemanuela/FireEdit) - FireEdit is a real-time text editor which allows programmers work simultaneously.
+
+## :octocat: GitHub
+
+- [all-contributors](https://github.com/kentcdodds/all-contributors) - Recognize all contributors, not just the ones who push code
 
 ## :tophat: Hacking
 

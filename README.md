@@ -1,3 +1,9 @@
+----
+author: Kike Fontan (@CosasDePuma) <kikefontanlorenzo@gmail.com>
+----
+
+
+
 <div align="center">
 	<div>
 		<img width="500" src=".readme/logo.png" alt="Awesome">

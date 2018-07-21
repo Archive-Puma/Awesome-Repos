@@ -22,6 +22,7 @@
 - [:fire: FireBase](#fire-firebase)
 - [:octocat: GitHub](#octocat-github)
   - [Awesome List](#awesome-list)
+  - [Best GitHub Projects!](#best-github-projects)
   - [Improve your Repositories](#improve-your-repositories)
 - [:tophat: Hacking](#tophat-hacking)
   - [Awesome List](#awesome-list)
@@ -82,6 +83,10 @@
 ### Awesome List
 
 - [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - Build your own (insert technology here)
+
+### Best GitHub Projects!
+
+- [Recipe: El Fuego Viviente](https://github.com/aweijnitz/recipe-el_fuego_viviente) - Fermented Chili Sauce
 
 ### Improve your Repositories
 

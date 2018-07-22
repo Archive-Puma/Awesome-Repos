@@ -24,6 +24,7 @@
   - [Awesome List](#awesome-list)
   - [Best GitHub Projects!](#best-github-projects)
   - [Improve your Repositories](#improve-your-repositories)
+  - [Licenses](#licenses)
 - [:tophat: Hacking](#tophat-hacking)
   - [Awesome List](#awesome-list)
   - [Ransomware](#ransomware)
@@ -91,6 +92,10 @@
 ### Improve your Repositories
 
 - [all-contributors](https://github.com/kentcdodds/all-contributors) - Recognize all contributors, not just the ones who push code
+
+### Licenses
+
+- [WTFPL](https://github.com/anak10thn/WTFPL) - DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
 
 ## :tophat: Hacking
 

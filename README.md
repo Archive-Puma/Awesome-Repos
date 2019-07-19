@@ -16,14 +16,17 @@
 - [:performing_arts: Artificial Intelligence](#performingarts-artificial-intelligence)
 	- [Facial Tracking](#facial-tracking)
 - [:bust_in_silhouette: Hacking](#bust-in-silhouette-hacking)
-	- [Collection](#collection)
+	- [Collections](#collections)
+	- [Honeypots](#honeypots)
 	- [Recon](#recon)
-	- [Rootkit](#rootkit)
+	- [Rootkits](#rootkits)
 - [:penguin: Linux](#penguin-linux)
 	- [LKM](#lkm)
 - [:black_joker: Programming Jokes](#blackjoker-programming-jokes)
 	- [Licenses](#licenses)
 	- [JS Modules](#js-modules)
+- [:speech_balloon: Programming Languages](#speechballoon-programming-languages)
+	- [Transpilers](#transpilers)
 - [:pager: RaspberryPi](#pager-raspberrypi)
 	- [Hacking](#hacking)
 - [:video_game: Unity](#videogame-unity)
@@ -45,13 +48,16 @@
 ## :bust_in_silhouette: Hacking
 ---
 
-### Collection
+### Collections
 - [Awesome Hacking Resources ](https://github.com/vitalysim/Awesome-Hacking-Resources) - A collection of hacking / penetration testing resources to make you better!
+
+### Honeypots
+- [HoneyPi](https://github.com/mattymcfatty/HoneyPi) - RaspberryPi HoneyPot
 
 ### Recon
 - [Warberry](https://github.com/secgroundzero/warberry) - WarBerryPi - Tactical Exploitation
 
-### Rootkit
+### Rootkits
 - [Reptile](https://github.com/f0rb1dd3n/Reptile) - LKM Linux rootkit
 
 
@@ -72,10 +78,18 @@
 - [null](https://github.com/mickael-kerjean/nulll) - Meeeh
 
 
+## :speech_balloon: Programming Languages
+---
+
+### Transpilers
+- [Brain](https://github.com/brain-lang/brain) - A high level programming language that compiles into the brainfuck esoteric programming language
+
+
 ## :pager: RaspberryPi
 ---
 
 ### Hacking
+- [HoneyPi](https://github.com/mattymcfatty/HoneyPi) - RaspberryPi HoneyPot
 - [Warberry](https://github.com/secgroundzero/warberry) - WarBerryPi - Tactical Exploitation
 
 

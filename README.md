@@ -10,7 +10,6 @@
 
 
 ## :card_file_box: Contents
----
 
 - [:sunglasses: Awesome](#sunglasses-awesome)
 - [:performing_arts: Artificial Intelligence](#performingarts-artificial-intelligence)
@@ -38,20 +37,20 @@
 	- [Shaders](#shaders)
 
 
-## :sunglasses: Awesome
----
+- [:gift: Treasures](#gift-treasures)
 
+
+## :sunglasses: Awesome
+
+- [Awesome Compilers](https://github.com/aalhour/awesome-compilers) - Curated list of awesome resources on Compilers, Interpreters and Runtimes
 - [Awesome Hacking Resources ](https://github.com/vitalysim/Awesome-Hacking-Resources) - A collection of hacking / penetration testing resources to make you better!
 
 ## :performing_arts: Artificial Intelligence
----
 
 ### Facial Tracking
-
 - [clmtrackr](https://github.com/auduno/clmtrackr) - Javascript library for precise tracking of facial features via Constrained Local Models
 
 ## :bust_in_silhouette: Hacking
----
 
 ### Collections
 - [Awesome Hacking Resources ](https://github.com/vitalysim/Awesome-Hacking-Resources) - A collection of hacking / penetration testing resources to make you better!
@@ -67,14 +66,13 @@
 
 
 ## :penguin: Linux
----
 
 ### LKM
+- [kgotobed](https://github.com/nikital/kgotobed) - Linux driver to help you go to bed at a specified time
 - [Reptile](https://github.com/f0rb1dd3n/Reptile) - LKM Linux rootkit
 
 
 ## :black_joker: Programming Jokes
----
 
 ### Licenses
 - [GLWTPL](https://github.com/me-shaon/GLWTPL) - "Good Luck With That" Public License
@@ -87,10 +85,11 @@
 
 
 ## :speech_balloon: Programming Languages
----
 
 ### Esoteric Languages
+- [Emojicode](https://github.com/emojicode/emojicode) - World’s only programming language that’s bursting with emojis
 - [Orca](https://github.com/hundredrabbits/Orca) - Each letter of the alphabet is an operation
+- [Pancake](https://github.com/fabiocolacio/Pancake) - A simple stack based programming language inspired by postscript and brainfuck
 
 ### Transpilers
 - [Brain](https://github.com/brain-lang/brain) - A high level programming language that compiles into the brainfuck esoteric programming language
@@ -100,7 +99,6 @@
 
 
 ## :pager: RaspberryPi
----
 
 ### Hacking
 - [HoneyPi](https://github.com/mattymcfatty/HoneyPi) - RaspberryPi HoneyPot
@@ -108,12 +106,20 @@
 
 
 ## :pizza: Recipes
----
+
 - [Pizza Dough](https://github.com/hendricius/pizza-dough) - This recipe is dedicated to helping you make the best possible pizza dough for Neapolitan pizza.
 
 
 ## :video_game: Unity
----
 
 ### Shaders
 - [PSX-Dither-Shader](https://github.com/jmickle66666666/PSX-Dither-Shader) - PSX-style dither shader for Unity
+
+
+
+
+
+
+## :gift: Treasures
+
+- [Dad's Resume](https://github.com/runvnc/dadsresume) - My dad's resume and skills from 1980

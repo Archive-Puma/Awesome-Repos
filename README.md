@@ -12,12 +12,22 @@
 ## :card_file_box: Contents
 ---
 
-- [:sunglasses: Awesome](#awesome)
-- [:performing_arts: Artificial Intelligence](#artificial-intelligence)
-- [:bust_in_silhouette: Hacking](#hacking)
-- [:penguin: Linux](#linux)
-- [:black_joker: Programming Jokes](#programming-jokes)
-- [:pager: RaspberryPi](#raspberrypi)
+- [:sunglasses: Awesome](#sunglasses-awesome)
+- [:performing_arts: Artificial Intelligence](#performingarts-artificial-intelligence)
+	- [Facial Tracking](#facial-tracking)
+- [:bust_in_silhouette: Hacking](#bust-in-silhouette-hacking)
+	- [Collection](#collection)
+	- [Recon](#recon)
+	- [Rootkit](#rootkit)
+- [:penguin: Linux](#penguin-linux)
+	- [LKM](#lkm)
+- [:black_joker: Programming Jokes](#blackjoker-programming-jokes)
+	- [Licenses](#licenses)
+	- [JS Modules](#js-modules)
+- [:pager: RaspberryPi](#pager-raspberrypi)
+	- [Hacking](#hacking)
+- [:video_game: Unity](#videogame-unity)
+	- [Shaders](#shaders)
 
 
 ## :sunglasses: Awesome
@@ -38,11 +48,11 @@
 ### Collection
 - [Awesome Hacking Resources ](https://github.com/vitalysim/Awesome-Hacking-Resources) - A collection of hacking / penetration testing resources to make you better!
 
-### Rootkit
-- [Reptile](https://github.com/f0rb1dd3n/Reptile) - LKM Linux rootkit
-
 ### Recon
 - [Warberry](https://github.com/secgroundzero/warberry) - WarBerryPi - Tactical Exploitation
+
+### Rootkit
+- [Reptile](https://github.com/f0rb1dd3n/Reptile) - LKM Linux rootkit
 
 
 ## :penguin: Linux
@@ -54,11 +64,23 @@
 
 ## :black_joker: Programming Jokes
 ---
+
+### Licenses
+- [GLWTPL](https://github.com/me-shaon/GLWTPL) - "Good Luck With That" Public License
+
+### JS Modules
 - [null](https://github.com/mickael-kerjean/nulll) - Meeeh
 
 
 ## :pager: RaspberryPi
 ---
 
-### PiHacking
+### Hacking
 - [Warberry](https://github.com/secgroundzero/warberry) - WarBerryPi - Tactical Exploitation
+
+
+## :video_game: Unity
+---
+
+### Shaders
+- [PSX-Dither-Shader](https://github.com/jmickle66666666/PSX-Dither-Shader) - PSX-style dither shader for Unity

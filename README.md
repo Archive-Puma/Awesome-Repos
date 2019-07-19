@@ -25,10 +25,15 @@
 - [:black_joker: Programming Jokes](#blackjoker-programming-jokes)
 	- [Licenses](#licenses)
 	- [JS Modules](#js-modules)
+	- [Websites](#websites)
 - [:speech_balloon: Programming Languages](#speechballoon-programming-languages)
+	- [Esoteric Languages](#esoteric-languages)
 	- [Transpilers](#transpilers)
+	- [Visual Languages](#visual-languages)
 - [:pager: RaspberryPi](#pager-raspberrypi)
 	- [Hacking](#hacking)
+- [:pizza: Recipes](#pizza-recipes)
+	- [LKM](#lkm)
 - [:video_game: Unity](#videogame-unity)
 	- [Shaders](#shaders)
 
@@ -77,12 +82,21 @@
 ### JS Modules
 - [null](https://github.com/mickael-kerjean/nulll) - Meeeh
 
+### Websites
+- [zuckerberg.smile](https://github.com/terkelg/zuckerberg.smile) - Control Mark Zuckerbergs smile property
+
 
 ## :speech_balloon: Programming Languages
 ---
 
+### Esoteric Languages
+- [Orca](https://github.com/hundredrabbits/Orca) - Each letter of the alphabet is an operation
+
 ### Transpilers
 - [Brain](https://github.com/brain-lang/brain) - A high level programming language that compiles into the brainfuck esoteric programming language
+
+### Visual Languages
+- [Luna](https://github.com/luna/luna) - Hybrid textual and visual functional programming.
 
 
 ## :pager: RaspberryPi
@@ -91,6 +105,11 @@
 ### Hacking
 - [HoneyPi](https://github.com/mattymcfatty/HoneyPi) - RaspberryPi HoneyPot
 - [Warberry](https://github.com/secgroundzero/warberry) - WarBerryPi - Tactical Exploitation
+
+
+## :pizza: Recipes
+---
+- [Pizza Dough](https://github.com/hendricius/pizza-dough) - This recipe is dedicated to helping you make the best possible pizza dough for Neapolitan pizza.
 
 
 ## :video_game: Unity
